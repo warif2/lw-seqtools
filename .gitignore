@@ -3,5 +3,7 @@
 compile.py
 license.py
 license.c
+license_key.so
+license.so
 main.py
 /build
